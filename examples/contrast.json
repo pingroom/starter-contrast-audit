@@ -1,0 +1,30 @@
+{
+  "auditId": "paper-site",
+  "title": "Paper craft text tokens",
+  "pairs": [
+    {
+      "id": "body-pass",
+      "foreground": "#767676",
+      "background": "#FFFFFF",
+      "usage": "16 CSS px regular body text on a solid white page."
+    },
+    {
+      "id": "body-fail",
+      "foreground": "#777777",
+      "background": "#FFFFFF",
+      "usage": "16 CSS px regular hint text on a solid white page."
+    },
+    {
+      "id": "heading",
+      "foreground": "#777777",
+      "background": "#FFFFFF",
+      "usage": "24 CSS px regular heading on a solid white page."
+    },
+    {
+      "id": "brand",
+      "foreground": "#EEEEEE",
+      "background": "#FFFFFF",
+      "usage": "Text forming the project logo, with a solid white background."
+    }
+  ]
+}
